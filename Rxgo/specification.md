@@ -477,4 +477,4 @@ func TestTake(t *testing.T) {
 
 ![1](1.png)
 
-感谢同学们的帮助。
+感谢同学们的帮助!
