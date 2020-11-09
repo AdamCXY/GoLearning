@@ -475,6 +475,6 @@ func TestTake(t *testing.T) {
 }
 ```
 
-![1](1.png)
+![1](img/1.png)
 
 感谢同学们的帮助!
